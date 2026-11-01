@@ -1,0 +1,376 @@
+BRIGHTLINE ROBOTICS EMPLOYEE HANDBOOK
+(Fictional company, written for testing this project.)
+
+PART ONE: TEAMS
+
+The Firmware Team
+
+The Firmware team is led by Ananya Rao and is based in Pune. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Firmware team has an annual travel budget of $1,200. Laptops for the Firmware team are replaced every 24 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Firmware team holds its weekly sync in room 300. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Perception Team
+
+The Perception team is led by Marcus Bell and is based in Austin. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Perception team has an annual travel budget of $1,577. Laptops for the Perception team are replaced every 25 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Perception team holds its weekly sync in room 307. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Mechanical Design Team
+
+The Mechanical Design team is led by Ingrid Holm and is based in Oslo. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Mechanical Design team has an annual travel budget of $1,954. Laptops for the Mechanical Design team are replaced every 26 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Mechanical Design team holds its weekly sync in room 314. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Field Service Team
+
+The Field Service team is led by Tomas Vidal and is based in Valencia. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Field Service team has an annual travel budget of $2,331. Laptops for the Field Service team are replaced every 27 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Field Service team holds its weekly sync in room 321. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Supply Chain Team
+
+The Supply Chain team is led by Mei Tanaka and is based in Osaka. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Supply Chain team has an annual travel budget of $2,708. Laptops for the Supply Chain team are replaced every 28 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Supply Chain team holds its weekly sync in room 328. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Quality Assurance Team
+
+The Quality Assurance team is led by Kwame Boateng and is based in Accra. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Quality Assurance team has an annual travel budget of $3,085. Laptops for the Quality Assurance team are replaced every 29 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Quality Assurance team holds its weekly sync in room 335. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Customer Success Team
+
+The Customer Success team is led by Laura Fischer and is based in Berlin. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Customer Success team has an annual travel budget of $3,462. Laptops for the Customer Success team are replaced every 30 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Customer Success team holds its weekly sync in room 342. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Finance Team
+
+The Finance team is led by Rohan Mehta and is based in Bengaluru. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Finance team has an annual travel budget of $3,839. Laptops for the Finance team are replaced every 31 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Finance team holds its weekly sync in room 349. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Battery Systems Team
+
+The Battery Systems team is led by Sofia Costa and is based in Lisbon. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Battery Systems team has an annual travel budget of $4,216. Laptops for the Battery Systems team are replaced every 32 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Battery Systems team holds its weekly sync in room 356. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Motion Planning Team
+
+The Motion Planning team is led by Daniel Weiss and is based in Zurich. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Motion Planning team has an annual travel budget of $4,593. Laptops for the Motion Planning team are replaced every 33 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Motion Planning team holds its weekly sync in room 363. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Fleet Software Team
+
+The Fleet Software team is led by Priya Nair and is based in Kochi. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Fleet Software team has an annual travel budget of $4,970. Laptops for the Fleet Software team are replaced every 34 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Fleet Software team holds its weekly sync in room 370. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Industrial Design Team
+
+The Industrial Design team is led by Hiro Sato and is based in Kyoto. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Industrial Design team has an annual travel budget of $5,347. Laptops for the Industrial Design team are replaced every 35 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Industrial Design team holds its weekly sync in room 377. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Procurement Team
+
+The Procurement team is led by Amara Okafor and is based in Lagos. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Procurement team has an annual travel budget of $5,724. Laptops for the Procurement team are replaced every 36 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Procurement team holds its weekly sync in room 384. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Compliance Team
+
+The Compliance team is led by Lucas Moreau and is based in Lyon. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Compliance team has an annual travel budget of $6,101. Laptops for the Compliance team are replaced every 37 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Compliance team holds its weekly sync in room 391. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Legal Team
+
+The Legal team is led by Nadia Haddad and is based in Beirut. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Legal team has an annual travel budget of $6,478. Laptops for the Legal team are replaced every 38 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Legal team holds its weekly sync in room 398. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Data Platform Team
+
+The Data Platform team is led by Oskar Lind and is based in Malmo. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Data Platform team has an annual travel budget of $6,855. Laptops for the Data Platform team are replaced every 39 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Data Platform team holds its weekly sync in room 405. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Simulation Team
+
+The Simulation team is led by Fatima Rahman and is based in Dhaka. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Simulation team has an annual travel budget of $7,232. Laptops for the Simulation team are replaced every 40 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Simulation team holds its weekly sync in room 412. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Manufacturing Team
+
+The Manufacturing team is led by Ethan Cole and is based in Denver. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Manufacturing team has an annual travel budget of $7,609. Laptops for the Manufacturing team are replaced every 41 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Manufacturing team holds its weekly sync in room 419. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Technical Writing Team
+
+The Technical Writing team is led by Yuki Mori and is based in Sapporo. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Technical Writing team has an annual travel budget of $7,986. Laptops for the Technical Writing team are replaced every 42 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Technical Writing team holds its weekly sync in room 426. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Recruiting Team
+
+The Recruiting team is led by Carlos Rojas and is based in Bogota. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Recruiting team has an annual travel budget of $8,363. Laptops for the Recruiting team are replaced every 43 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Recruiting team holds its weekly sync in room 433. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Payroll Team
+
+The Payroll team is led by Leila Karimi and is based in Tehran. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Payroll team has an annual travel budget of $8,740. Laptops for the Payroll team are replaced every 44 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Payroll team holds its weekly sync in room 440. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Sensor Calibration Team
+
+The Sensor Calibration team is led by Viktor Novak and is based in Prague. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Sensor Calibration team has an annual travel budget of $9,117. Laptops for the Sensor Calibration team are replaced every 45 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Sensor Calibration team holds its weekly sync in room 447. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Cloud Infrastructure Team
+
+The Cloud Infrastructure team is led by Zara Ali and is based in Karachi. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Cloud Infrastructure team has an annual travel budget of $9,494. Laptops for the Cloud Infrastructure team are replaced every 46 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Cloud Infrastructure team holds its weekly sync in room 454. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Developer Tools Team
+
+The Developer Tools team is led by Noah Berg and is based in Bergen. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Developer Tools team has an annual travel budget of $9,871. Laptops for the Developer Tools team are replaced every 47 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Developer Tools team holds its weekly sync in room 461. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Partner Sales Team
+
+The Partner Sales team is led by Aisha Diallo and is based in Dakar. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Partner Sales team has an annual travel budget of $10,248. Laptops for the Partner Sales team are replaced every 48 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Partner Sales team holds its weekly sync in room 468. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Warehouse Operations Team
+
+The Warehouse Operations team is led by Felix Braun and is based in Munich. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Warehouse Operations team has an annual travel budget of $10,625. Laptops for the Warehouse Operations team are replaced every 49 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Warehouse Operations team holds its weekly sync in room 475. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Test Automation Team
+
+The Test Automation team is led by Tara Iyer and is based in Chennai. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Test Automation team has an annual travel budget of $11,002. Laptops for the Test Automation team are replaced every 50 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Test Automation team holds its weekly sync in room 482. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Mapping Team
+
+The Mapping team is led by Mateo Silva and is based in Porto. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Mapping team has an annual travel budget of $11,379. Laptops for the Mapping team are replaced every 51 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Mapping team holds its weekly sync in room 489. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Safety Engineering Team
+
+The Safety Engineering team is led by Elena Petrova and is based in Sofia. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Safety Engineering team has an annual travel budget of $11,756. Laptops for the Safety Engineering team are replaced every 52 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Safety Engineering team holds its weekly sync in room 496. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Brand Marketing Team
+
+The Brand Marketing team is led by Samir Khan and is based in Lahore. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Brand Marketing team has an annual travel budget of $12,133. Laptops for the Brand Marketing team are replaced every 53 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Brand Marketing team holds its weekly sync in room 503. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Facilities Team
+
+The Facilities team is led by Greta Larsen and is based in Aarhus. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Facilities team has an annual travel budget of $12,510. Laptops for the Facilities team are replaced every 54 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Facilities team holds its weekly sync in room 510. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+The Internal Audit Team
+
+The Internal Audit team is led by Ibrahim Yilmaz and is based in Izmir. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Budget and equipment. Each member of the Internal Audit team has an annual travel budget of $12,887. Laptops for the Internal Audit team are replaced every 55 months. Requests go through the team lead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Rhythm of work. The Internal Audit team holds its weekly sync in room 517. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+PART TWO: POLICIES
+
+Family Leave
+
+Birth parents receive 26 weeks of fully paid leave after a child is born, and partners receive 14 weeks. Adoptive parents receive the same 26 weeks from the placement date. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Sabbatical
+
+After seven full years of service an employee may take a sabbatical of 9 weeks at 60 percent pay, once in any five-year period. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Working From Home
+
+Staff may work outside the office up to 3 days each week. Working from another country is limited to 21 days per calendar year because of tax rules. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Expenses
+
+Expense claims must be filed within 45 days of the purchase. Receipts are needed for anything over $35. Claims are reimbursed in the following payroll run. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Security Incidents
+
+Suspected security incidents must be reported to the security desk within 2 hours by emailing the internal alias redteam-desk. Do not try to investigate on your own. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Learning Allowance
+
+Every employee gets $1,275 per year for courses, books and conferences. Unused money does not roll over into the next year. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Sick Days
+
+Employees get 12 paid sick days per year. A note from a doctor is only required after 4 consecutive days away. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Notice Period
+
+People leaving the company give 8 weeks of notice. In the probation period, which lasts 90 days, notice is reduced to 1 week. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Moving Support
+
+When the company asks someone to move to another city, it pays relocation costs up to $18,500 and provides temporary housing for 6 weeks. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Referral Bonus
+
+An employee who refers a successful hire receives a bonus of $2,250, paid after the new person completes 180 days. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Data Retention
+
+Customer telemetry is kept for 400 days and then deleted automatically. Support transcripts are kept for 730 days. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Office Access
+
+Building badges stop working at 22:30 on weekdays. Weekend access needs approval from the site manager at least 48 hours ahead. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+PART THREE: ROBOT ERROR CODES
+
+Error E-104
+
+This code means the gripper pressure sensor returned an out-of-range value. To resolve it, recalibrate the gripper. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-145
+
+This code means the lidar unit lost sync with the main clock. To resolve it, power cycle the sensor mast. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-186
+
+This code means the left drive motor overheated. To resolve it, let it cool for 20 minutes. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-227
+
+This code means the battery cell reported an imbalance. To resolve it, return the robot to the dock. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-268
+
+This code means the emergency stop circuit opened unexpectedly. To resolve it, inspect the stop button wiring. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-309
+
+This code means the navigation map failed its checksum. To resolve it, download the map again. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-350
+
+This code means the right drive motor stalled under load. To resolve it, clear the wheel of debris. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-391
+
+This code means the arm joint encoder drifted beyond tolerance. To resolve it, rerun joint homing. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-432
+
+This code means the wheel odometer stopped reporting. To resolve it, replace the odometer cable. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-473
+
+This code means the charging contact shorted briefly. To resolve it, clean the contact plates. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-514
+
+This code means the thermal camera froze mid-frame. To resolve it, reboot the vision computer. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-555
+
+This code means the depth camera lost calibration. To resolve it, run the depth calibration tool. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-596
+
+This code means the wifi module dropped its connection. To resolve it, reseat the antenna. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-637
+
+This code means the safety bumper triggered without contact. To resolve it, check the bumper springs. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-678
+
+This code means the payload scale read a negative weight. To resolve it, zero the scale. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 
+
+Error E-719
+
+This code means the status beacon failed its self-test. To resolve it, replace the beacon fuse. Log the event in the service tracker. Team members are expected to record decisions in the shared tracker and to raise blockers early. New joiners are paired with a buddy for their first month, and managers review workloads every quarter so that nobody carries an unreasonable amount of work for long. 

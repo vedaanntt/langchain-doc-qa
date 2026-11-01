@@ -1,0 +1,6 @@
+[server]
+# Only this computer can open the app, not others on your Wi-Fi
+address = "localhost"
+
+[browser]
+gatherUsageStats = false

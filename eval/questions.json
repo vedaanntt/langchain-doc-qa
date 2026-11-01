@@ -1,0 +1,496 @@
+[
+  {
+    "question": "What is the annual travel budget per person on the Firmware team?",
+    "expected": [
+      "$1,200"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Perception team?",
+    "expected": [
+      "$1,577"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Mechanical Design team?",
+    "expected": [
+      "$1,954"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Field Service team?",
+    "expected": [
+      "$2,331"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Supply Chain team?",
+    "expected": [
+      "$2,708"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Quality Assurance team?",
+    "expected": [
+      "$3,085"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Customer Success team?",
+    "expected": [
+      "$3,462"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Finance team?",
+    "expected": [
+      "$3,839"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Battery Systems team?",
+    "expected": [
+      "$4,216"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Motion Planning team?",
+    "expected": [
+      "$4,593"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Fleet Software team?",
+    "expected": [
+      "$4,970"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Industrial Design team?",
+    "expected": [
+      "$5,347"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Procurement team?",
+    "expected": [
+      "$5,724"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Compliance team?",
+    "expected": [
+      "$6,101"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Legal team?",
+    "expected": [
+      "$6,478"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Data Platform team?",
+    "expected": [
+      "$6,855"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Simulation team?",
+    "expected": [
+      "$7,232"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Manufacturing team?",
+    "expected": [
+      "$7,609"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Technical Writing team?",
+    "expected": [
+      "$7,986"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Recruiting team?",
+    "expected": [
+      "$8,363"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Payroll team?",
+    "expected": [
+      "$8,740"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Sensor Calibration team?",
+    "expected": [
+      "$9,117"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Cloud Infrastructure team?",
+    "expected": [
+      "$9,494"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Developer Tools team?",
+    "expected": [
+      "$9,871"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Partner Sales team?",
+    "expected": [
+      "$10,248"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Warehouse Operations team?",
+    "expected": [
+      "$10,625"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Test Automation team?",
+    "expected": [
+      "$11,002"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Mapping team?",
+    "expected": [
+      "$11,379"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Safety Engineering team?",
+    "expected": [
+      "$11,756"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Brand Marketing team?",
+    "expected": [
+      "$12,133"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Facilities team?",
+    "expected": [
+      "$12,510"
+    ]
+  },
+  {
+    "question": "What is the annual travel budget per person on the Internal Audit team?",
+    "expected": [
+      "$12,887"
+    ]
+  },
+  {
+    "question": "Who leads the Firmware team?",
+    "expected": [
+      "Ananya Rao"
+    ]
+  },
+  {
+    "question": "Who leads the Field Service team?",
+    "expected": [
+      "Tomas Vidal"
+    ]
+  },
+  {
+    "question": "Who leads the Customer Success team?",
+    "expected": [
+      "Laura Fischer"
+    ]
+  },
+  {
+    "question": "Who leads the Motion Planning team?",
+    "expected": [
+      "Daniel Weiss"
+    ]
+  },
+  {
+    "question": "Who leads the Procurement team?",
+    "expected": [
+      "Amara Okafor"
+    ]
+  },
+  {
+    "question": "Who leads the Data Platform team?",
+    "expected": [
+      "Oskar Lind"
+    ]
+  },
+  {
+    "question": "Who leads the Technical Writing team?",
+    "expected": [
+      "Yuki Mori"
+    ]
+  },
+  {
+    "question": "Who leads the Sensor Calibration team?",
+    "expected": [
+      "Viktor Novak"
+    ]
+  },
+  {
+    "question": "Who leads the Partner Sales team?",
+    "expected": [
+      "Aisha Diallo"
+    ]
+  },
+  {
+    "question": "Who leads the Mapping team?",
+    "expected": [
+      "Mateo Silva"
+    ]
+  },
+  {
+    "question": "Who leads the Facilities team?",
+    "expected": [
+      "Greta Larsen"
+    ]
+  },
+  {
+    "question": "Which city is the Perception team based in?",
+    "expected": [
+      "Austin"
+    ]
+  },
+  {
+    "question": "Which city is the Quality Assurance team based in?",
+    "expected": [
+      "Accra"
+    ]
+  },
+  {
+    "question": "Which city is the Motion Planning team based in?",
+    "expected": [
+      "Zurich"
+    ]
+  },
+  {
+    "question": "Which city is the Compliance team based in?",
+    "expected": [
+      "Lyon"
+    ]
+  },
+  {
+    "question": "Which city is the Manufacturing team based in?",
+    "expected": [
+      "Denver"
+    ]
+  },
+  {
+    "question": "Which city is the Sensor Calibration team based in?",
+    "expected": [
+      "Prague"
+    ]
+  },
+  {
+    "question": "Which city is the Warehouse Operations team based in?",
+    "expected": [
+      "Munich"
+    ]
+  },
+  {
+    "question": "Which city is the Brand Marketing team based in?",
+    "expected": [
+      "Lahore"
+    ]
+  },
+  {
+    "question": "How long can I stay home with full salary after having a baby?",
+    "expected": [
+      "26 weeks"
+    ]
+  },
+  {
+    "question": "How many days a year am I allowed to work from abroad?",
+    "expected": [
+      "21 days"
+    ]
+  },
+  {
+    "question": "What is the deadline to claim back money I spent on company purchases?",
+    "expected": [
+      "45 days"
+    ]
+  },
+  {
+    "question": "How much does the company give me each year to study and take training?",
+    "expected": [
+      "$1,275"
+    ]
+  },
+  {
+    "question": "How much money do I get for recommending a friend who gets hired?",
+    "expected": [
+      "$2,250"
+    ]
+  },
+  {
+    "question": "If the company transfers me to a new city, how much will it cover?",
+    "expected": [
+      "$18,500"
+    ]
+  },
+  {
+    "question": "After how long is robot usage data erased?",
+    "expected": [
+      "400 days"
+    ]
+  },
+  {
+    "question": "How many days can I miss because of illness before I need a medical certificate?",
+    "expected": [
+      "4 consecutive",
+      "4 days",
+      "four"
+    ]
+  },
+  {
+    "question": "Can I take a long paid break after many years here, and how long is it?",
+    "expected": [
+      "9 weeks"
+    ]
+  },
+  {
+    "question": "When does my building pass stop working on a normal work day?",
+    "expected": [
+      "22:30"
+    ]
+  },
+  {
+    "question": "What is the fix for error E-104?",
+    "expected": [
+      "recalibrat"
+    ]
+  },
+  {
+    "question": "What is the fix for error E-186?",
+    "expected": [
+      "cool for 20 minutes"
+    ]
+  },
+  {
+    "question": "What is the fix for error E-268?",
+    "expected": [
+      "inspect the stop button wiring"
+    ]
+  },
+  {
+    "question": "What is the fix for error E-350?",
+    "expected": [
+      "clear the wheel of debris"
+    ]
+  },
+  {
+    "question": "What is the fix for error E-432?",
+    "expected": [
+      "replace the odometer cable"
+    ]
+  },
+  {
+    "question": "What is the fix for error E-514?",
+    "expected": [
+      "reboot the vision computer"
+    ]
+  },
+  {
+    "question": "What is the fix for error E-596?",
+    "expected": [
+      "reseat the antenna"
+    ]
+  },
+  {
+    "question": "What is the fix for error E-678?",
+    "expected": [
+      "zero the scale"
+    ]
+  },
+  {
+    "question": "Which part of the robot does error E-145 refer to?",
+    "expected": [
+      "lidar unit"
+    ]
+  },
+  {
+    "question": "Which part of the robot does error E-227 refer to?",
+    "expected": [
+      "battery cell"
+    ]
+  },
+  {
+    "question": "Which part of the robot does error E-309 refer to?",
+    "expected": [
+      "navigation map"
+    ]
+  },
+  {
+    "question": "Which part of the robot does error E-391 refer to?",
+    "expected": [
+      "arm joint encoder"
+    ]
+  },
+  {
+    "question": "Which part of the robot does error E-473 refer to?",
+    "expected": [
+      "charging contact"
+    ]
+  },
+  {
+    "question": "Which part of the robot does error E-555 refer to?",
+    "expected": [
+      "depth camera"
+    ]
+  },
+  {
+    "question": "Which part of the robot does error E-637 refer to?",
+    "expected": [
+      "safety bumper"
+    ]
+  },
+  {
+    "question": "Which part of the robot does error E-719 refer to?",
+    "expected": [
+      "status beacon"
+    ]
+  },
+  {
+    "question": "What is the stock ticker symbol of Brightline Robotics?",
+    "expected": [],
+    "unanswerable": true
+  },
+  {
+    "question": "Who is the CEO of the company?",
+    "expected": [],
+    "unanswerable": true
+  },
+  {
+    "question": "How much is the annual gym membership allowance?",
+    "expected": [],
+    "unanswerable": true
+  },
+  {
+    "question": "What does error E-999 mean?",
+    "expected": [],
+    "unanswerable": true
+  },
+  {
+    "question": "What is the annual bonus percentage on the Finance team?",
+    "expected": [],
+    "unanswerable": true
+  },
+  {
+    "question": "What is the dress code at the Oslo office?",
+    "expected": [],
+    "unanswerable": true
+  }
+]
